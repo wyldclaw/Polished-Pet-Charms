@@ -1,0 +1,7 @@
+## Interface: 90100
+## Title: Polished Pet Charms
+## Author: Wyldclaw-Lightbringer
+## Version: v1.0.0
+## Notes: Add the amount of Polished Pet Charms to the tooltip
+
+PolishedPetCharms.lua
